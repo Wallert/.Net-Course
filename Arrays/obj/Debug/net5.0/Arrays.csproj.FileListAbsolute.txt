@@ -1,0 +1,16 @@
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Work\Courses\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Work\Courses\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Work\Courses\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Work\Courses\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

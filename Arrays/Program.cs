@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;
+//using System.Linq;
 
 namespace Arrays
 {
@@ -104,6 +104,16 @@ namespace Arrays
             */
             #endregion
 
+            #region 5Task
+            int[] array1 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+            int[] array2 = new int[] { 20, 21, 22, 23};
+            array2.CopyTo(array1, 2);
+            foreach (var item in array1)
+            {
+                Console.WriteLine(item);
+            }
+            #endregion
+
             #region 6Task
             /*
             const int N = 15;           
@@ -130,6 +140,7 @@ namespace Arrays
             #endregion
 
             #region 7Task
+            /*
             Random rand = new Random();
             int[] arr1 = new int[10];
             int[] arr2 = new int[10];
@@ -149,6 +160,8 @@ namespace Arrays
                 if (max < item) max = item;
             }
             Console.WriteLine($"AVG: {avg / arr3.Length} Min: {min} Max: {max}");
+            */
+            #endregion
         }
     }
 }
