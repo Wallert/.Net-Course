@@ -1,0 +1,16 @@
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.exe
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.deps.json
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.runtimeconfig.json
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.runtimeconfig.dev.json
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.dll
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\ref\OOP.Classes.dll
+D:\Work\Courses\OOP.Classes\bin\Debug\net5.0\OOP.Classes.pdb
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.csprojAssemblyReference.cache
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.AssemblyInfoInputs.cache
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.AssemblyInfo.cs
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.csproj.CoreCompileInputs.cache
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.dll
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\ref\OOP.Classes.dll
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.pdb
+D:\Work\Courses\OOP.Classes\obj\Debug\net5.0\OOP.Classes.genruntimeconfig.cache
