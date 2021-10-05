@@ -1,5 +1,5 @@
 ﻿using System;
-//using System.Linq;
+using System.Linq;
 
 namespace Arrays
 {
@@ -104,14 +104,16 @@ namespace Arrays
             */
             #endregion
 
-            #region 5Task
+            #region 5TaskNotComplete
+            /*
             int[] array1 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
             int[] array2 = new int[] { 20, 21, 22, 23};
-            array2.CopyTo(array1, 2);
+            array2.CopyTo(array1, 2);            
             foreach (var item in array1)
             {
                 Console.WriteLine(item);
             }
+            */
             #endregion
 
             #region 6Task
